@@ -10,7 +10,7 @@ require (
 	github.com/go-pdf/fpdf v0.8.0 // indirect
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0 // indirect
 	github.com/golang/protobuf v1.4.2 // indirect
-	github.com/pointlander/gradient v0.0.0-20230114050126-69977707af34 // indirect
+	github.com/pointlander/gradient v0.0.0-20230828021643-b550fc547618 // indirect
 	golang.org/x/image v0.7.0 // indirect
 	golang.org/x/text v0.9.0 // indirect
 	gonum.org/v1/plot v0.13.0 // indirect
